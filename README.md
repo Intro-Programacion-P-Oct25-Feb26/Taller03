@@ -35,7 +35,7 @@
 ### Ejercicio07
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio07
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
-> ![](https://raw.githubusercontent.com/IntroProgramacion-P-Oct21-Feb22/taller3/main/imagenes/parae-jercicio7.png)
+> ![](https://raw.githubusercontent.com/Intro-Programacion-P-Oct25-Feb26/Taller03/refs/heads/main/imagenes/para-ejercicio-7.png)
 
 
 ### Ejercicio08
